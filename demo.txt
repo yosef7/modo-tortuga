@@ -1,0 +1,11 @@
+$ time python3 tortuga.py ejemplo.txt   # Apple M3, 8 GB, Ollama 0.40.8, gemma4:e2b, 25 oct 2026
+Modo Tortuga · empieza por esto (propuesta; tú decides):
+1. Confirmar el horario del salón comunitario · vence 2026-10-23
+   Primer paso: Buscar el horario del salón comunitario en línea
+   Motivo: Confirma la disponibilidad del espacio.
+2. Revisar lista de materiales para el taller del sábado · vence 2026-10-24
+   Primer paso: Abrir la lista de materiales para el taller del sábado
+   Motivo: Desbloquea la revisión de la lista.
+3. Preparar una presentación breve para el club de lectura · vence 2026-10-25
+   Primer paso: Abrir un documento y redactar el título de la presentación
+   Motivo: Inicia la preparación de la presentación.
